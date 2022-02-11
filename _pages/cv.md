@@ -36,7 +36,7 @@ Publications
 ======
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en
 ">Google Scholar</a>.</u>
-{% include https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en %}
+
  <!---
    <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
