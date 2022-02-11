@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Souvik Seal"
 title_separator          : "-"
 name                     : &name "Souvik Seal"
-description              : &description Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus 
+description              : &description "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus" 
 url                      : https://sealx017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sealx017/sealx017.github.io"
