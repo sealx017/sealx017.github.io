@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working with <a href="https://scholar.google.com/citations?user=L14IppEAAAAJ&hl=en" style="color:pink;"> Prof. Debashis Ghosh</a> and
-<a href="http://csph.ucdenver.edu/Sites/Kechris/" style="color:pink;"> Prof. Katerina Kechris</a> on multiple topics such as Multiplex 
+I am working with <a href="https://scholar.google.com/citations?user=L14IppEAAAAJ&hl=en" style="color:skyblue;"> Prof. Debashis Ghosh</a> and <a href="http://csph.ucdenver.edu/Sites/Kechris/" style="color:skyblue;"> Prof. Katerina Kechris</a> on multiple topics such as Multiplex 
 Imaging data Analysis and Gene Co-expression Network Analysis. I recieved Ph.D. in Biostatistics in 2020 from the Department of Biostatistics, 
-University of Minnesota working with <a href="http://www.biostat.umn.edu/~saonli/" style="color:pink;"> Prof. Saonli Basu </a>.
-Before that, I did Bachelors (2014) and Masters (2016) in Statistics from Indian Statistical Institue, Kolkata.
+University of Minnesota working with <a href="http://www.biostat.umn.edu/~saonli/" style="color:skyblue;"> Prof. Saonli Basu </a>.
+Before that, I did Bachelors (2014) and Masters (2016) in Statistics from Indian Statistical Institue, Kolkata. My research interests include Information Theory, Gaussian Graphical Models, Causal Inference, Spatial Statistics, Statistical Methods in Genetics, Longitudinal Data Analysis, and Functional Data Analysis.
