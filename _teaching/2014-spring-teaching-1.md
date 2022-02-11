@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Biostatistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Summer course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Colorado Anschutz Medical Campus"
+date: 2021-07-26
+location: "Aurora, Colorado"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I have taught "Regression and Hyopthesis Testing" in summer 2021 as part of the Colorado Summer Institute in Biostatistics (CoSIBS) program. CoSIBS is a Summer Institute in Biostatistics (SIBS) program that is sponsored by a grant from the National Heart Lung and Blood Institute (NHLBI) of the National Institutes of Health (NIH). The purpose of the NHLBI SIBS program is to introduce advanced undergraduate and early-stage graduate students to the field of biostatistics and the frontiers of data sciences.
