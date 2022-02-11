@@ -16,7 +16,7 @@ I have been guest lecturer and teaching assistant for different courses, such as
 * PubH 6414: Biostatistical Literacy (Summer 2017)
 * PubH 8432: Probability Models (Fall 2017)
 * PubH 7430: Statistical Methods for Correlated Data (Fall 2017)
-* PubH 8412: Advanced Statistical Inference (Spring 2018, 2019)
+* PubH 8412: Advanced Statistical Inference (Spring 2018)
 * PubH 6420: Introduction to SAS Programming (Summer 2018)
 * PubH 7450: Survival Data Analysis (Fall 2018)
 * PubH 8412: Advanced Statistical Inference (Spring 2019)
