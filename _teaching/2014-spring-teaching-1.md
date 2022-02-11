@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest lecturer"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Minnesota"
-date: 2016-2020
+date: 
 location: "Minneapolis, Minnesota"
 ---
 
