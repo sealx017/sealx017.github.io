@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Souvik Seal"
-  avatar           : ""
-  bio              : ""
-  location         : "Location"
+  avatar           : "https://i.imgur.com/WRvfP2d.jpg"
+  bio              : "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus"
+  location         : "Denver, Colorado"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en"
+  email            : "souvik.seal@cuanschutz.edu"
+  researchgate     : "https://www.researchgate.net/profile/Souvik-Seal"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3268-610X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
