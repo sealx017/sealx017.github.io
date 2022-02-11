@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my articles on <u><a href="https://api.site-shot.com/?url=www.com&userkey=HQKRAKBKRARAAJBKYEIAAQ
+You can find my articles on <u><a href="https://api.site-shot.com/&url=https://www.wikipedia.org/
 ">my Google Scholar profile</a>.</u>
 
 
