@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Souvik Seal"
-  avatar           : "<a href="https://imgur.com/WRvfP2d"><img src="https://i.imgur.com/WRvfP2d.jpg" title="source: imgur.com" /></a>"
+  avatar           : "https://i.imgur.com/WRvfP2d.jpg"
   bio              : "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus"
   location         : "Denver, Colorado"
-  employer         : 
-  pubmed           : 
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en"
   email            : "souvik.seal@cuanschutz.edu"
   researchgate     : "https://www.researchgate.net/profile/Souvik-Seal"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/souvik-seal-b3524a18a/"
+  linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3268-610X"
   pinterest        :
   soundcloud       :
