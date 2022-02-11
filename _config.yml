@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Souvik Seal"
-  avatar           : "https://i.imgur.com/WRvfP2d.jpg"
+  avatar           : "<a href="https://imgur.com/WRvfP2d"><img src="https://i.imgur.com/WRvfP2d.jpg" title="source: imgur.com" /></a>"
   bio              : "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus"
   location         : "Denver, Colorado"
   employer         :
