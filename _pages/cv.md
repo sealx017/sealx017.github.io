@@ -53,11 +53,7 @@ Talks
    * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2019
    * ENAR 2019, JSM 2019, SPH Research day, UMN 2019.
 
-[comment]: <> (
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-)
+[comment]: <> ( <ul>{% for post in site.talks %} {% include archive-single-talk-cv.html %} {% endfor %}</ul>)
  
 Teaching
 ======
