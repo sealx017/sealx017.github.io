@@ -37,11 +37,11 @@ Publications
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en
 ">Google Scholar</a>.</u>
 
- <!--
+[comment]: <> (
    <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  -->
+  )
 
 Talks
 ======
@@ -52,11 +52,12 @@ Talks
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
    * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2019
    * ENAR 2019, JSM 2019, SPH Research day, UMN 2019.
-<!--
+
+[comment]: <> (
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
- -->
+)
  
 Teaching
 ======
