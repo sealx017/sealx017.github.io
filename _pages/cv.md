@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biostatistics, University of Minnesota, 2020
+* M.S. in Statistics, Indian Statistical Institute, Kolkata, 2016
+* B.S. in Statistics, Indian Statistical Institute, Kolkata, 2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 to Summer 2023: Post-doctoral Fellow (Current)
+  * University of Colorado Anschutz medical Campus
+  * Duties included: Developing novel methodologies
+  * Supervisor: Prof. Debashish Ghosh and Prof. Saonli Basu
+* Fall 2016 to Summer 2020: Research and Teaching Assistant
+  * University of Minnesota
+  * Duties included: Develpoing novel methodologies and mentoring graduate students
+  * Supervisor: Prof. Saonli Basu
+* Summer 2014: Internship at a financial engineering firm, FinIQ consulting
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software skills: R, Python, MATLAB, C++, C, SAS, SPSS
 
 Publications
 ======
@@ -56,4 +52,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for journals like Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools.
+
+* Joint organizer of a Network Science Group that spans researchers from different departments of Colorado School of Public Health (CSPH) and University of Colorado Boulder.
+
+
