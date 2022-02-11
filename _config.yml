@@ -10,12 +10,7 @@ locale                   : "en-US"
 title                    : "Souvik Seal"
 title_separator          : "-"
 name                     : &name "Souvik Seal"
-description              : &description I am working as a post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus 
-                           with <a href="https://scholar.google.com/citations?user=L14IppEAAAAJ&hl=en" style="color:pink;"> Prof. Debashis Ghosh</a> and
-                           <a href="http://csph.ucdenver.edu/Sites/Kechris/" style="color:pink;"> Prof. Katerina Kechris</a> on multiple topics such as Multiplex 
-                           Imaging data Analysis and Gene Co-expression Network Analysis. I recieved Ph.D. in Biostatistics in 2020 from the Department of Biostatistics, 
-                           University of Minnesota working with <a href="http://www.biostat.umn.edu/~saonli/" style="color:pink;"> Prof. Saonli Basu </a>.
-                           Before that, I did Bachelors (2014) and Masters (2016) in Statistics from Indian Statistical Institue, Kolkata.
+description              : &description Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus 
 url                      : https://sealx017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sealx017/sealx017.github.io"
@@ -87,7 +82,11 @@ analytics:
 author:
   name             : "Souvik Seal"
   avatar           : "<a href="https://imgur.com/WRvfP2d"><img src="https://i.imgur.com/WRvfP2d.jpg" title="source: imgur.com" /></a>""
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am working with <a href="https://scholar.google.com/citations?user=L14IppEAAAAJ&hl=en" style="color:pink;"> Prof. Debashis Ghosh</a> and
+                      <a href="http://csph.ucdenver.edu/Sites/Kechris/" style="color:pink;"> Prof. Katerina Kechris</a> on multiple topics such as Multiplex 
+                      Imaging data Analysis and Gene Co-expression Network Analysis. I recieved Ph.D. in Biostatistics in 2020 from the Department of Biostatistics, 
+                      University of Minnesota working with <a href="http://www.biostat.umn.edu/~saonli/" style="color:pink;"> Prof. Saonli Basu </a>.
+                      Before that, I did Bachelors (2014) and Masters (2016) in Statistics from Indian Statistical Institue, Kolkata"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
