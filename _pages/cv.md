@@ -34,16 +34,30 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+You can find my articles on <u><a href="https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en
+">Google Scholar</a>.</u>
+{% include https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en %}
+ <!---
+   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
+
 Talks
 ======
+* Invited Talks: 
+  * JSM 2022, WNAR 2020.
+
+* Contributed Talks/Posters:  
+   * WNAR 2021, Co-Wy ASA 2021, JSM 2021
+   * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2019
+   * ENAR 2019, JSM 2019, SPH Research day, UMN 2019.
+<!---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+ -->
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
