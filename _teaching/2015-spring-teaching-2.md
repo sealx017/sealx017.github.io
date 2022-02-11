@@ -1,7 +1,7 @@
 ---
 title: "Lecturer" 
 collection: teaching
-type: "Summer course"
+type: "Lecturer"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Colorado Anschutz Medical Campus"
 date: 2021-07-26
