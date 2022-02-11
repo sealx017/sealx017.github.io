@@ -309,3 +309,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+#################################
+ # BACKGROUND AND SIDEBAR
+#################################
+
+  card-background-color: "rgba(0, 0, 0, 1)"
+  primary-background-color: "rgba(90, 90, 90, 1)"
+  secondary-background-color: "rgba(90, 90, 90, 1)"
