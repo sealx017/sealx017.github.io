@@ -52,7 +52,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for journals like Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools.
+* Reviewer for multiple peer-reviewed journals, such as Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools.
 
 * Joint organizer of a Network Science Group that spans researchers from different departments of Colorado School of Public Health (CSPH) and University of Colorado Boulder.
 
