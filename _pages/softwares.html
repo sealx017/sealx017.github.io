@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="Vd0qU_E7t8E4yhguq-_PRAERjg9rNV0Yv2h64hKY-iY" />
+<style>
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-image {
+  border: 4px solid black;
+  background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  filter: blur(6px);
+  -webkit-filter: blur(6px);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.2); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: lighter;
+  border: 0px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: left;
+}
+/* FontAwesome for working BootSnippet :> */
+
+#team {
+  background-color: rgba(255,255,255, 0.02); /* Fallback color */
+
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: rgba(234,234,234,0.02);
+    border-color: #108d6f;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgba(234,234,234,0.02);
+    border-color: #007b5e;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: White;
+    margin-bottom: 50px;
+}
+
+#team .card {
+    border: none;
+    background: rgba(234,234,234,0.2);
+}
+
+.image-flip:hover .backside,
+.image-flip.hover .backside {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    border-radius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.frontside .card,
+.backside .card {
+    min-height: 312px;
+}
+
+.backside .card a {
+    font-size: 18px;
+    color: Pink;
+;
+}
+
+.frontside .card .card-title,
+.backside .card .card-title {
+    color: White;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+</style>
+<title> Souvik Seal: Softwares </title>
+<link rel="icon" type="image/gif/png" href="https://www.cu.edu/sites/default/files/cu-standalone.png">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+
+<div class="bg-image"></div>
+<div class="bg-text">
+<div id="bg-text">
+
+
+  <!-- Team -->
+  <section id="team" class="pb-5">
+      <div class="container">
+          <h2 class="section-title h1">Repositories:</h2>
+          <div class="row">
+              <!-- Team member -->
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                  <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                      <div class="mainflip">
+                          <div class="frontside">
+                              <div class="card">
+                                  <div class="card-body text-center">
+                                      <p><img class="img-fluid" src="https://i.imgur.com/dLXKFsj.png" alt="C/python logo"></p>
+                                      <h4 class="card-title">RCFGL</h4>
+                                      <p class="card-text">For estimating multiple Gaussian Graphical networks.</p>
+                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="backside">
+                              <div class="card">
+                                  <div class="card-body text-left mt-4">
+                                      <h3 class="card-title">RCFGL</h3>
+                                      <p class="card-text">This C and Python based package is associated with the manuscript: "Rapid condition-adaptive Fused Graphical Lasso".
+                                       <a href="https://github.com/sealx017/RCFGL"> Available here.</a>
+                                      </p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+                      <!-- Team member -->
+                      <div class="col-xs-12 col-sm-6 col-md-4">
+                          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                              <div class="mainflip">
+                                  <div class="frontside">
+                                      <div class="card">
+                                          <div class="card-body text-center">
+                                              <p><img class=" img-fluid" src="https://i.imgur.com/LUjXKnD.png" alt="Python logo"></p>
+                                              <h4 class="card-title">PredLMM</h4>
+                                              <p class="card-text">For estimating SNP heritability.</p>
+                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div class="backside">
+                                      <div class="card">
+                                          <div class="card-body text-left mt-4">
+                                              <h4 class="card-title">PredLMM</h4>
+                                              <p class="card-text">This Python based package is associated with the paper: "Rapid Estimation of SNP Heritability using Predictive Process approximation in Large scale Cohort Studies".
+                                              <a href="https://github.com/sealx017/PredLMM"> Available here.</a></p>
+
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+
+  <!-- Team member -->
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                            <div class="mainflip">
+                                <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                              <p><img class=" img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
+                                              <h4 class="card-title">VectraMIBI</h4>
+                                              <p class="card-text">For estimating SNP heritability.</p>
+                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div class="backside">
+                                      <div class="card">
+                                          <div class="card-body text-left mt-4">
+                                              <h4 class="card-title">VectraMIBI</h4>
+                                              <p class="card-text">This R based package is associated with the paper
+                                                "On Clustering for Cell Phenotyping in Multiplex Immunohistochemistry (mIHC) and Multiplexed Ion Beam Imaging (MIBI) Data".
+                                                <a href="https://github.com/sealx017/VectraMIBI"> Available here.</a>
+                                              </p>
+
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+
+                      <div class="col-xs-12 col-sm-6 col-md-4">
+                              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="mainflip">
+                                        <div class="frontside">
+                                          <div class="card">
+                                              <div class="card-body text-center">
+                                                      <p><img class=" img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
+                                                      <h4 class="card-title">MPDenVar</h4>
+                                                      <p class="card-text">For studying marker influence on survival in mIHC and MIBI data.</p>
+                                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                          <div class="backside">
+                                              <div class="card">
+                                                  <div class="card-body text-left mt-4">
+                                                      <h4 class="card-title">MPDenVar</h4>
+                                                      <p class="card-text">This R based package is associated with the paper: "MPDenVar: Marker Probability Density basedVariation in patients from mIHC and MIBI data"</p>
+                                            </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                              <div class="mainflip">
+                                <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                              <p><img class="img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
+                                              <h4 class="card-title">RMultiPAR</h4>
+                                              <p class="card-text">For genetic association analysis.</p>
+                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                              </div>
+                                                </div>
+                                                  </div>
+                                                  <div class="backside">
+                                                      <div class="card">
+                                                          <div class="card-body text-left mt-4">
+                                                              <h4 class="card-title">RMultiPAR</h4>
+                                                              <p class="card-text">This R based package is associated with the paper "Multivariate Association Analysis of Correlated Traits in Related Individuals."
+                                                              <a href="https://github.com/sealx017/RMultiPAR"> Available here.</a>
+                                                              </p>
+                                                            </div>
+                                                      </div>
+                                                  </div>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+
+  </section>
+  <!-- Team -->
+</div>
+</div>
+</body>
+</html>
