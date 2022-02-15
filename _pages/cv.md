@@ -31,7 +31,7 @@ Work experience
 Skills
 ======
 * Software skills: R, Python, MATLAB, C++, C, SAS, SPSS
-* Areas of expertise: High-dimesnional Data Analysis, Gaussian Grpahical Networks, Spatial Statistics, Information theory, Causal inference
+* Areas of expertise: High-dimesnional Data, Gaussian Grpahical Networks, Spatial Statistics, Functional Data, Information theory, Causal Inference
 
 Publications
 ======
