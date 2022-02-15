@@ -31,6 +31,7 @@ Work experience
 Skills
 ======
 * Software skills: R, Python, MATLAB, C++, C, SAS, SPSS
+* Areas of expertise: High-dimesnional Data Analysis, Gaussian Grpahical Networks, Spatial Statistics, Information theory, Causal inference
 
 Publications
 ======
@@ -40,11 +41,11 @@ You can find my articles on <u><a href="https://scholar.google.com/citations?use
 Talks
 ======
 * Invited Talks: 
-  * JSM 2022, WNAR 2020.
+  * JSM 2022
 
 * Contributed Talks/Posters:  
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
-   * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2019
+   * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2020
    * ENAR 2019, JSM 2019, SPH Research day, UMN 2019.
  
 Teaching
