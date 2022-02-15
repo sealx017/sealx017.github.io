@@ -46,7 +46,7 @@ Talks
 * Contributed Talks/Posters:  
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
    * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2020
-   * ENAR 2019, JSM 2019, SPH Research day, UMN 2019.
+   * ENAR 2019, JSM 2019, SPH Research day, UMN 2019
  
 Teaching
 ======
@@ -56,8 +56,8 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for multiple peer-reviewed journals, such as Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools.
+* Reviewer for multiple peer-reviewed journals, such as Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools
 
-* Joint organizer of a Network Science Group that spans researchers from different departments of Colorado School of Public Health (CSPH) and University of Colorado Boulder.
+* Joint organizer of a Network Science Group that spans researchers from different departments of Colorado School of Public Health (CSPH) and University of Colorado Boulder
 
 
