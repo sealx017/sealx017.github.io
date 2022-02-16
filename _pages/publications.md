@@ -60,7 +60,7 @@ body, html {
 }
 
 section {
-    padding: 60px 0;
+    padding: 80px 0;
 }
 
 section .section-title {
