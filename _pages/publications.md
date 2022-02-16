@@ -179,7 +179,6 @@ section .section-title {
 <div class="bg-text">
 <div id="bg-text">
 
-  <section id="team" class="pb-5">
       <div class="container">
           <div class="row">
               <!-- Team member -->
@@ -207,8 +206,6 @@ section .section-title {
                                   </div>
                               </div>
 
-
-  </section>
   <!-- Team -->
 </div>
 
