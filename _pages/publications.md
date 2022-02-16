@@ -162,9 +162,9 @@ section .section-title {
 }
 
 .frontside .card .card-body img {
-    width: 100px;
+    width: 500px;
     height: 20px;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 </style>
