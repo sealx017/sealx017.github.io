@@ -179,6 +179,7 @@ section .section-title {
 <div class="bg-text">
 <div id="bg-text">
 
+  <section id="team" class="pb-5">
       <div class="container">
           <div class="row">
               <!-- Team member -->
@@ -198,7 +199,7 @@ section .section-title {
                                               <div class="card">
                                                   <div class="card-body text-left mt-4">
                                                       <h4 class="card-title">MIAMI</h4>
-                                                      <p class="card-text"> It is a mutual information based method for stuying association of marker co-expression with clinical outcomes.   <a href="https://www.biorxiv.org/content/10.1101/2022.02.10.479967v2"> Available here.</a> </p>
+                                                      <p class="card-text"> It is a method for stuying association of marker co-expression with  clinical outcomes in multiplex imaging datasets.   <a href="https://www.biorxiv.org/content/10.1101/2022.02.10.479967v2"> Preprint available here.</a> </p>
                                             </div>
                                               </div>
                                           </div>
@@ -206,8 +207,60 @@ section .section-title {
                                   </div>
                               </div>
 
-  <!-- Team -->
+   <section id="team" class="pb-5">    
+      <div class="container">
+          <div class="row">
+              <!-- Team member -->
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="mainflip">
+                                        <div class="frontside">
+                                          <div class="card">
+                                              <div class="card-body text-left">
+                                                      <p><h5 class="card-title">RCFGL</h5></p>
+                                                      <p class="card-text"> Rapid Condition-adaptive Fused Graphical Lasso.</p>
+                                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                          <div class="backside">
+                                              <div class="card">
+                                                  <div class="card-body text-left mt-4">
+                                                      <h4 class="card-title">RCFGL</h4>
+                                                      <p class="card-text"> It is a method for jointly estimating graphical networks under multiple conditions taking into account condition-specificity.  <a href="https://www.biorxiv.org/content/10.1101/2022.02.08.479613v1.abstract"> Preprint available here.</a> </p>
+                                            </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
 </div>
 
-
+   <section id="team" class="pb-5">    
+      <div class="container">
+          <div class="row">
+              <!-- Team member -->
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="mainflip">
+                                        <div class="frontside">
+                                          <div class="card">
+                                              <div class="card-body text-left">
+                                                      <p class="card-text"> Estimating SNP heritability in presence of population substructure in biobank-scale datasets. </p>
+                                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                          <div class="backside">
+                                              <div class="card">
+                                                  <div class="card-body text-left mt-4">
+                                                      <h4 class="card-title">RCFGL</h4>
+                                                      <p class="card-text"> It is a method for estimating SNP-heritability efficiently under the presence of population sub-structures.  <a href="https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac015/6519831"> Available here.</a> </p>
+                                            </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+</div>
 
