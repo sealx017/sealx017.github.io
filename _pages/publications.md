@@ -71,7 +71,7 @@ section .section-title {
 
 #team .card {
     border: none;
-    background: rgba(234,234,234,0.05);
+    background: rgba(0,255,255,0.2);
 }
 
 .image-flip:hover .backside,
