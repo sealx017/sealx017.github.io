@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en
-">Google Scholar</a>.</u>
+">Google Scholar</a>.</u> Some of the recent ones are listed below.
 
 <style>
 
@@ -173,7 +173,6 @@ section .section-title {
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-</head>
 <body>
 
 <div class="bg-image"></div>
@@ -190,9 +189,8 @@ section .section-title {
                                         <div class="frontside">
                                           <div class="card">
                                               <div class="card-body text-left">
-                                                      <p><img class=" img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo">
-                                                      <h5 class="card-title">MIAMI</h5></p>
-                                                      <p class="card-text">For studying marker co-expression in multiplex imagingdata.</p>
+                                                      <p><h5 class="card-title">MIAMI</h5></p>
+                                                      <p class="card-text"> Mutual Information-based Association Analysis of Multiplex Imaging data.</p>
                                                       <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                                   </div>
                                               </div>
@@ -201,7 +199,7 @@ section .section-title {
                                               <div class="card">
                                                   <div class="card-body text-left mt-4">
                                                       <h4 class="card-title">MIAMI</h4>
-                                                      <p class="card-text">This R package is associated with the paper: "MIAMI: Mutual Information-based Association Analysis of Multiplex Imaging data."<a href="https://github.com/sealx017/MIAMI"> Available here.</a> </p>
+                                                      <p class="card-text"> It is a mutual information based method for stuying association of marker co-expression with clinical outcomes.   <a href="https://www.biorxiv.org/content/10.1101/2022.02.10.479967v2"> Available here.</a> </p>
                                             </div>
                                               </div>
                                           </div>
@@ -209,152 +207,10 @@ section .section-title {
                                   </div>
                               </div>
 
-              <!-- Team member -->
-              <div class="col-xs-12 col-sm-6 col-md-4">
-                  <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                      <div class="mainflip">
-                          <div class="frontside">
-                              <div class="card">
-                                  <div class="card-body text-left">
-                                      <p><img class="img-fluid" src="https://i.imgur.com/dLXKFsj.png" alt="C/python logo"></p>
-                                      <h4 class="card-title">RCFGL</h4>
-                                      <p class="card-text">For estimating multiple Gaussian Graphical networks.</p>
-                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="backside">
-                              <div class="card">
-                                  <div class="card-body text-left mt-4">
-                                      <h3 class="card-title">RCFGL</h3>
-                                      <p class="card-text">This C and Python based package is associated with the manuscript: "Rapid condition-adaptive Fused Graphical Lasso".
-                                       <a href="https://github.com/sealx017/RCFGL"> Available here.</a>
-                                      </p>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                </div>
-
-
- <div class="col-xs-12 col-sm-6 col-md-4">
-                              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                                    <div class="mainflip">
-                                        <div class="frontside">
-                                          <div class="card">
-                                              <div class="card-body text-left">
-                                                      <p><img class=" img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
-                                                      <h4 class="card-title">DenVar</h4>
-                                                      <p class="card-text">For studying marker influence on survival in mIHC and MIBI data.</p>
-                                                      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <div class="backside">
-                                              <div class="card">
-                                                  <div class="card-body text-left mt-4">
-                                                      <h4 class="card-title">DenVar</h4>
-                                                      <p class="card-text">This R package is associated with the paper: "DenVar: Density based Variation analysis of multiplex imaging data." <a href="https://github.com/sealx017/DenVar"> Available here.</a> </p>
-                                            </div>
-                                              </div>
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-
-
-                      <!-- Team member -->
-                      <div class="col-xs-12 col-sm-6 col-md-4">
-                          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                              <div class="mainflip">
-                                  <div class="frontside">
-                                      <div class="card">
-                                          <div class="card-body text-left">
-                                              <p><img class=" img-fluid" src="https://i.imgur.com/LUjXKnD.png" alt="Python logo"></p>
-                                              <h4 class="card-title">PredLMM</h4>
-                                              <p class="card-text">For estimating SNP heritability.</p>
-                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="backside">
-                                      <div class="card">
-                                          <div class="card-body text-left mt-4">
-                                              <h4 class="card-title">PredLMM</h4>
-                                              <p class="card-text">This Python based package is associated with the paper: "Rapid Estimation of SNP Heritability using Predictive Process approximation in Large scale Cohort Studies".
-                                              <a href="https://github.com/sealx017/PredLMM"> Available here.</a></p>
-
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                            <div class="mainflip">
-                                <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-left">
-                                              <p><img class=" img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
-                                              <h4 class="card-title">VectraMIBI</h4>
-                                              <p class="card-text">For cell-phenotyping in multiplex imaging data.</p>
-                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="backside">
-                                      <div class="card">
-                                          <div class="card-body text-left mt-4">
-                                              <h4 class="card-title">VectraMIBI</h4>
-                                              <p class="card-text">This R package is associated with the paper
-                                                "On Clustering for Cell Phenotyping in Multiplex Immunohistochemistry (mIHC) and Multiplexed Ion Beam Imaging (MIBI) Data".
-                                                <a href="https://github.com/sealx017/VectraMIBI"> Available here.</a>
-                                              </p>
-
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-
-
-<div class="col-xs-12 col-sm-6 col-md-4">
-              <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                              <div class="mainflip">
-                                <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-left">
-                                              <p><img class="img-fluid" src="https://i.imgur.com/MCd9JQ9.png" alt="R logo"></p>
-                                              <h4 class="card-title">RMultiPAR</h4>
-                                              <p class="card-text">For genetic association analysis.</p>
-                                              <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
-                                              </div>
-                                                </div>
-                                                  </div>
-                                                  <div class="backside">
-                                                      <div class="card">
-                                                          <div class="card-body text-left mt-4">
-                                                              <h4 class="card-title">RMultiPAR</h4>
-                                                              <p class="card-text">This R based package is associated with the paper "Multivariate Association Analysis of Correlated Traits in Related Individuals."
-                                                              <a href="https://github.com/sealx017/RMultiPAR"> Available here.</a>
-                                                              </p>
-                                                            </div>
-                                                      </div>
-                                                  </div>
-                             </div>
-                          </div>
-                       </div>
-                    </div>
 
   </section>
   <!-- Team -->
 </div>
-</div>
-</body>
-</html>
+
 
 
