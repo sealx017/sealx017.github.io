@@ -41,7 +41,7 @@ You can find my articles on <u><a href="https://scholar.google.com/citations?use
 Talks
 ======
 * Invited Talks: 
-  * JSM 2022
+  * JSM 2022, WNAR 2022
 
 * Contributed Talks/Posters:  
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
