@@ -43,7 +43,8 @@ Talks
 * Invited Talks: 
   * JSM 2022, WNAR 2022
 
-* Contributed Talks/Posters:  
+* Contributed Talks/Posters:
+   * NIDA GECCRT 2022  
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
    * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2020
    * ENAR 2019, JSM 2019, SPH Research day, UMN 2019
