@@ -31,7 +31,7 @@ Work experience
 Skills
 ======
 * Software skills: R, Python, MATLAB, C++, C, SAS, SPSS
-* Areas of expertise: High-dimensional Data, Gaussian Grpahical Networks, Spatial Statistics, Functional Data, Information theory, Causal Inference
+* Areas of expertise: High-dimensional Data Analysis, Gaussian Graphical Networks, Spatial Statistics, Cell-imaging Data, Information Theory
 
 Publications
 ======
@@ -40,11 +40,10 @@ You can find my articles on <u><a href="https://scholar.google.com/citations?use
 
 Talks
 ======
-* Invited Talks: 
-  * JSM 2022, WNAR 2022
+* Invited Talks/Posters: 
+  * JSM 2022, WNAR 2022, NIDA GECCRT 2022  
 
 * Contributed Talks/Posters:
-   * NIDA GECCRT 2022  
    * WNAR 2021, Co-Wy ASA 2021, JSM 2021
    * JSM 2020, ENAR 2020, CSP 2020, SPH Research day, UMN 2020
    * ENAR 2019, JSM 2019, SPH Research day, UMN 2019
@@ -57,7 +56,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for multiple peer-reviewed journals, such as Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics and International Journal on Artificial Intelligence Tools
+* Reviewer for multiple peer-reviewed journals, such as Biometrics, Bioinformatics Advances, BMC Genomics, Sage Cancer Informatics, International Journal on Artificial Intelligence Tools, Journal of Visualized Experiments.
 
 * Joint organizer of a Network Science Group that spans researchers from different departments of Colorado School of Public Health (CSPH) and University of Colorado Boulder
 
