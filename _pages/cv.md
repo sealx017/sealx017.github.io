@@ -19,12 +19,12 @@ Education
 Work experience
 ======
 * Fall 2020 to Summer 2023: Post-doctoral Fellow (Current)
-  * University of Colorado Anschutz medical Campus
-  * Duties included: Developing novel methodologies
-  * Supervisor: Prof. Debashish Ghosh and Prof. Katerina Kechris
+  * Dept. of Biostatistics and Informatics, Colorado School of Public Health, University of Colorado Anschutz medical Campus
+  * Duties included: Developing (bio-)statistical novel methodologies
+  * Supervisors: Prof. Debashish Ghosh and Prof. Katerina Kechris
 * Fall 2016 to Summer 2020: Research and Teaching Assistant
-  * University of Minnesota
-  * Duties included: Develpoing novel methodologies and mentoring graduate students
+  * Dept. of Biostatistics, University of Minnesota
+  * Duties included: Develpoing (bio-)statistical novel methodologies and mentoring graduate students
   * Supervisor: Prof. Saonli Basu
 * Summer 2014: Internship at a financial engineering firm, FinIQ consulting
 
