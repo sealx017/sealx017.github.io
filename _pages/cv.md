@@ -20,7 +20,7 @@ Work experience
 ======
 * Fall 2020 to Summer 2023: Post-doctoral Fellow (Current)
   * Dept. of Biostatistics and Informatics, Colorado School of Public Health, University of Colorado Anschutz medical Campus
-  * Duties included: Developing novel (bio-)statistical methodologies
+  * Duties included: Developing novel (bio-)statistical methodologies and working as guest lecturer
   * Supervisors: Prof. Debashish Ghosh and Prof. Katerina Kechris
 * Fall 2016 to Summer 2020: Research and Teaching Assistant
   * Dept. of Biostatistics, University of Minnesota
