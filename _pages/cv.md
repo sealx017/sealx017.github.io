@@ -21,7 +21,7 @@ Work experience
 * Fall 2020 to Summer 2023: Post-doctoral Fellow (Current)
   * University of Colorado Anschutz medical Campus
   * Duties included: Developing novel methodologies
-  * Supervisor: Prof. Debashish Ghosh and Prof. Saonli Basu
+  * Supervisor: Prof. Debashish Ghosh and Prof. Katerina Kechris
 * Fall 2016 to Summer 2020: Research and Teaching Assistant
   * University of Minnesota
   * Duties included: Develpoing novel methodologies and mentoring graduate students
@@ -38,6 +38,12 @@ Publications
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en
 ">Google Scholar</a>.</u>
 
+Awards
+======
+* Biometrics section paper award at JSM 2022
+* Best research scholar (RS) award from Department of Biostatistics, University of Minnesota 2020
+* Dean's PHD scholarship from Department of Biostatistics, University of Minnesota 2016
+ 
 Talks
 ======
 * Invited Talks/Posters: 
