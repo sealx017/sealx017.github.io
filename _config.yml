@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Souvik Seal"
 title_separator          : "-"
 name                     : &name "Souvik Seal"
-description              : &description "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus" 
+description              : &description "Assistant Professor" 
 url                      : https://sealx017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sealx017/sealx017.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Souvik Seal"
   avatar           : "https://i.imgur.com/WRvfP2d.jpg"
-  bio              : "Post-doctoral fellow at the Department of Biostatistics and Informatics, CU Anschutz Medical Campus"
-  location         : "Denver, Colorado"
+  bio              : "Assistant Professor at MUSC"
+  location         : "Charleston, SC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8NeELr8AAAAJ&hl=en"
-  email            : "souvik.seal@cuanschutz.edu"
+  email            : "sealso@musc.edu"
   researchgate     : "https://www.researchgate.net/profile/Souvik-Seal"
   uri              :
   bitbucket        :
